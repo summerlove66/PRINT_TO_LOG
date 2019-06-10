@@ -1,2 +1,2 @@
 # PRINT_TO_LOG
-when you use print , automatic    write the content to log ..
+when you use @print_to_log("xxx.log") , automaticly    write the  print content to xxx.log ..
